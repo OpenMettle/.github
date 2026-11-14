@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions and design discussions
+    url: https://github.com/OpenMettle/.github/discussions
+    about: Ask for help or discuss an idea before opening an implementation issue.
+  - name: Report a security vulnerability privately
+    url: https://github.com/OpenMettle/.github/security/advisories/new
+    about: Do not post vulnerability details in public issues.

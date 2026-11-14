@@ -1,0 +1,7 @@
+{
+  "name": "OpenMettle repository checks",
+  "description": "Basic repository hygiene. Requires scripts/check_repository.py from OpenMettle/repository-template; this workflow alone is not sufficient.",
+  "categories": [
+    "Continuous integration"
+  ]
+}

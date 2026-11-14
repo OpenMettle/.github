@@ -1,0 +1,27 @@
+name: Feature proposal
+description: Propose an improvement to the experience.
+title: "[Feature]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: User problem
+      description: Who needs this and what are they trying to do?
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired behavior
+      description: Describe the result and how we would know it works.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives and trade-offs
+  - type: textarea
+    id: scope
+    attributes:
+      label: Compatibility and operational impact
+      description: Consider resource use, privacy, permissions, configuration and recovery.
