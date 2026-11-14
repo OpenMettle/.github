@@ -1,6 +1,6 @@
 # OpenMettle brand assets
 
-The home of Mettle and the OpenMettle visual identity. All 14 original PNG files from the design session are preserved here in Git. The [manifest](manifest.json) records dimensions, byte counts and checksums.
+The home of Mettle and the OpenMettle visual identity. All 15 original PNG files from the design session are preserved here in Git. The [manifest](manifest.json) records dimensions, byte counts and checksums.
 
 <img src="current/openmettle-avatar.png" alt="Mettle, the graphite and red robot with a small privacy keyhole in his status tab" width="180">
 
@@ -8,7 +8,8 @@ The home of Mettle and the OpenMettle visual identity. All 14 original PNG files
 
 | File | Intended use |
 | --- | --- |
-| [openmettle-avatar.png](current/openmettle-avatar.png) | Organisation avatar and standalone head mark |
+| [openmettle-avatar-transparent.png](current/openmettle-avatar-transparent.png) | Transparent organisation avatar; 690 KB, below GitHub's 1 MB upload limit |
+| [openmettle-avatar.png](current/openmettle-avatar.png) | Original head mark on ivory; high-resolution reference |
 | [openmettle-homelab-hero.png](current/openmettle-homelab-hero.png) | Warm home-lab and family introduction; organisation profile hero |
 | [openmettle-banner-dark.png](current/openmettle-banner-dark.png) | Dark README, project and presentation banner |
 
@@ -89,7 +90,7 @@ Every earlier image is retained for reference. These are design history, not the
 
 ## Owner settings
 
-The profile README and repository artwork are versioned here. GitHub's organisation avatar is a separate owner setting: use `current/openmettle-avatar.png` for that image. Suggested organisation description: **AMD-first open-source AI for home labs and households, with privacy and practical usability in mind.**
+The profile README and repository artwork are versioned here. GitHub's organisation avatar is a separate owner setting: use `current/openmettle-avatar-transparent.png` for that image. Suggested organisation description: **AMD-first open-source AI for home labs and households, with privacy and practical usability in mind.**
 
 ## Verify the archive
 

@@ -158,6 +158,18 @@
       "mode": "RGB",
       "sha256": "377b1630b85e58ed3a8620606ed691725cc8bb7450d5b57d9e30a3e71ac8df93",
       "git_blob_sha1": "d013ffb61a6db8d7a39e7f9f2339f22787c143f0"
+    },
+    {
+      "path": "current/openmettle-avatar-transparent.png",
+      "source_filename": "exec-3c959f6e-3830-4bb3-ab54-1c05c4a19ee8.png",
+      "description": "Compact transparent avatar with privacy keyhole; fits GitHub upload size limit",
+      "reference_asset": "current/openmettle-avatar.png",
+      "bytes": 689924,
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "sha256": "3e5d7d68152c1b525af3139bb4be8fdbe958c16437564d476c84fc403176df55",
+      "git_blob_sha1": "ebc19c9d0274d7c06653a7eb59aa79164605f73f"
     }
   ]
 }
