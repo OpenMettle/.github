@@ -10,6 +10,14 @@ The ambition is to make the surrounding experience associated with leading AI pr
 
 People who want a useful assistant for their household, creative work or development, and want to own the system they run. Setup should be documented for a technically curious person without assuming they are an infrastructure specialist.
 
+The initial audience includes home-lab builders making useful services for the people they live with. Family usability is a design goal; setup, access and maintenance should stay understandable beyond the person who assembled the system.
+
+## Hardware and privacy direction
+
+AMD hardware and the ROCm ecosystem are the primary development, optimisation and validation target. Interfaces should leave room for other hardware. Supported devices and the evidence behind compatibility or performance claims will be documented per component.
+
+Privacy is a design priority: local control where practical, explicit user and tool access, and clear descriptions of data flows. Optional external tools and providers need understandable configuration and documentation of what leaves the deployment. A self-hosted component alone does not establish the privacy properties of the whole system.
+
 ## Principles
 
 1. Start with one supported path that is easy to install, verify and recover.

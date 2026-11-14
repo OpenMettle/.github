@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "created": "2026-11-14",
+  "project": "OpenMettle",
+  "generator": "OpenAI built-in image generation",
+  "notes": "Original PNG bytes preserved. Raster artwork and mockups; no vector masters or print-ready production files are claimed.",
+  "assets": [
+    {
+      "path": "archive/01-geometric-wordmark.png",
+      "source_filename": "exec-d18c0384-6b4a-4a6f-8431-90966bab0fab.png",
+      "description": "First geometric wordmark, transparent",
+      "bytes": 390242,
+      "width": 2172,
+      "height": 724,
+      "mode": "RGBA",
+      "sha256": "acc04874d18b981b4401cd7db9c1dc4eb5628719b094717b486fcad3d059c5cb",
+      "git_blob_sha1": "a265f145c799d2e9ebab2e0198835dbcda10084a"
+    },
+    {
+      "path": "archive/02-geometric-avatar.png",
+      "source_filename": "exec-8aa78796-4a98-435d-b7e9-30d0b7b9e54b.png",
+      "description": "First geometric avatar",
+      "bytes": 1087958,
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "6b05519af3e1e29e740a9915542221057590e074d5cc8baa74506c2327706300",
+      "git_blob_sha1": "3fffc4017630c72dc8959efe758bb66bee062327"
+    },
+    {
+      "path": "archive/03-geometric-banner.png",
+      "source_filename": "exec-74fa368a-ded9-4b97-9f9b-df1437e27d30.png",
+      "description": "First geometric banner",
+      "bytes": 1684868,
+      "width": 1983,
+      "height": 793,
+      "mode": "RGB",
+      "sha256": "dc0c283e636f772284a762c4f28df5f11b0b036f4c3890215e9a2ecb3eb2352e",
+      "git_blob_sha1": "51b460ce6650625093998cccb55ca2df1b42f227"
+    },
+    {
+      "path": "archive/04-badger-workshop.png",
+      "source_filename": "exec-1cefe508-c5a8-43ca-93e3-134260112cbb.png",
+      "description": "Workshop badger exploration",
+      "bytes": 1823947,
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "sha256": "58414012cd25163180afef217191964a527826eb3ea2dfdd03b3f74c342da31f",
+      "git_blob_sha1": "30941feb1df35a0801bcbe9a41ee1d99119a1184"
+    },
+    {
+      "path": "archive/05-badger-ai.png",
+      "source_filename": "exec-ae4e851f-76d1-481c-afbc-e9d7d549f6e1.png",
+      "description": "Digital badger exploration",
+      "bytes": 1772786,
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "sha256": "18fec34d9786e2cab11776826c18ae7875058ff5d3766a64c8dc659d34e3e28a",
+      "git_blob_sha1": "aefc770f74a237ae731cf6377f4f25ff16c908a1"
+    },
+    {
+      "path": "archive/06-robot-teal.png",
+      "source_filename": "exec-df67344b-18cc-4e53-a19a-b35a7807b3cb.png",
+      "description": "Initial robot identity",
+      "bytes": 1614746,
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "sha256": "3c9390197cb9320f5730241cab3994d694c260e054c28dabb4ba2a564194d8e4",
+      "git_blob_sha1": "f8f935aa43a88d753d70067532511c43737a7123"
+    },
+    {
+      "path": "mockups/robot-red-identity-sheet.png",
+      "source_filename": "exec-b771a735-be84-490a-a698-56ecb81692f3.png",
+      "description": "Graphite and red identity study before privacy detail",
+      "bytes": 1504126,
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "sha256": "c666bc861afd15603cf5147d1e062709e0579caa54bb570ddd71e9d1d11a2d05",
+      "git_blob_sha1": "5424984aa30f3b573969044431ecf71ed3ed2836"
+    },
+    {
+      "path": "archive/07-robot-red-banner.png",
+      "source_filename": "exec-282a52ae-175f-4329-a3ac-f0ac78ddd60e.png",
+      "description": "Dark banner before privacy detail",
+      "bytes": 1885342,
+      "width": 1983,
+      "height": 793,
+      "mode": "RGB",
+      "sha256": "b0758b532ea208b1645eecf7ac8b7e3c9f64b35d12056e7fd82e5e1704717f77",
+      "git_blob_sha1": "942dcadb8d752c581b48bb9cb7547304974eeb03"
+    },
+    {
+      "path": "mockups/merchandise.png",
+      "source_filename": "exec-737a16c9-90f3-4cf5-a16e-1c3c53963634.png",
+      "description": "Stickers, mug, laptop and shirt concept before privacy detail",
+      "bytes": 2463806,
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "sha256": "32c99cfd24329f12ba8cf3ea91c965662e6d474d3aa1fee608de73c241085458",
+      "git_blob_sha1": "e3526547ccead97cbc4f374068949532e422cb2c"
+    },
+    {
+      "path": "archive/08-homelab-family.png",
+      "source_filename": "exec-e61dd1d5-97ee-489a-acfd-75cf290bf7c4.png",
+      "description": "Home-lab hero before privacy detail",
+      "bytes": 1973174,
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "06d873f7d792cd0fe6bf93009bc3ebebdc576756c4f381ae771bb951afa1d295",
+      "git_blob_sha1": "18988e7a3387cced32c6c36dc6c1c6861daeb736"
+    },
+    {
+      "path": "archive/09-robot-red-avatar.png",
+      "source_filename": "exec-436be44b-92e2-4c8d-a8c6-1c7ff109f6af.png",
+      "description": "Standalone avatar before privacy detail",
+      "bytes": 1253714,
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "880d9f070d5ad9d1e071e1645375be90973c23c67c0ea07727bd8d4b783443fb",
+      "git_blob_sha1": "b67505c33454cdc28247a8b300e44d708f8140f8"
+    },
+    {
+      "path": "current/openmettle-avatar.png",
+      "source_filename": "exec-8119a5ce-5560-4c23-a783-6ef90de40ad4.png",
+      "description": "Current Mettle head with subtle privacy keyhole",
+      "bytes": 1531654,
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "b40202c88dd5e9ecf63d6aae7e1bc2c1ba65975c0e251a98c5e1eb913cf68521",
+      "git_blob_sha1": "66fba9cd66fc2e368b5252a3e4a7ffe47f994286"
+    },
+    {
+      "path": "current/openmettle-homelab-hero.png",
+      "source_filename": "exec-79fa92ac-1539-4935-ad6a-4356385498ec.png",
+      "description": "Current home-lab and family hero with privacy detail",
+      "bytes": 1987949,
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "139204fc7b9da55122673a681dce88c980d385ae2737af32646d8ae41e912892",
+      "git_blob_sha1": "c7a3007a50f7acb5e9d42a282909ecb4204e810f"
+    },
+    {
+      "path": "current/openmettle-banner-dark.png",
+      "source_filename": "exec-f851dc47-b354-46de-bcff-eaca39eb2fff.png",
+      "description": "Current dark banner with privacy detail",
+      "bytes": 1802584,
+      "width": 1983,
+      "height": 793,
+      "mode": "RGB",
+      "sha256": "377b1630b85e58ed3a8620606ed691725cc8bb7450d5b57d9e30a3e71ac8df93",
+      "git_blob_sha1": "d013ffb61a6db8d7a39e7f9f2339f22787c143f0"
+    }
+  ]
+}
