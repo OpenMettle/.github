@@ -90,7 +90,7 @@ Every earlier image is retained for reference. These are design history, not the
 
 ## Owner settings
 
-The profile README and repository artwork are versioned here. GitHub's organisation avatar is a separate owner setting: use `current/openmettle-avatar-transparent.png` for that image. Suggested organisation description: **AMD-first open-source AI for home labs and households, with privacy and practical usability in mind.**
+The profile README and repository artwork are versioned here. GitHub's organisation avatar is a separate owner setting: use `current/openmettle-avatar-transparent.png` for that image. Suggested organisation description: **Private, self-hosted multi-user AI. AMD-first, open by design — built in Rust & PostgreSQL for homes, with Education and Small Business planned.**
 
 ## Verify the archive
 
